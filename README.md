@@ -14,6 +14,11 @@ Asegerno 開發者個人檔案、專案理念與技術方向說明 (About Aseger
 
 ---
 
-## ⚖️ 許可證說明 (License)
+## ⚖️ 智財權與授權聲明 (Intellectual Property & Licensing)
 
-本專案採用 **[The Unlicense](https://unlicense.org/)** 授權協議，釋入公有領域（Public Domain）。
+### 1. 第三方商標與專有軟體宣告 (Third-Party Trademarks & Proprietary Notice)
+* 本個人空間所提及之所有第三方商業軟體、品牌商標（如 Microsoft、Kaspersky、Dr.Web、Google 等）均為其各自合法擁有者之財產。
+* 提及此等軟體僅作為技術分析、相容性說明與安全工具鏈研究之客觀引用。
+
+### 2. 本文檔授權 (License)
+本簡介文檔採用 **[The Unlicense](https://unlicense.org/)** 釋入公有領域（Public Domain）。
